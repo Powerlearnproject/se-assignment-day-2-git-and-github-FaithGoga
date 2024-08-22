@@ -58,4 +58,5 @@ You create an Issue for a topic, and use it track progress or ask questions. You
 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+some challenges include too many commits that cloud the overall focus of the project.
 Clear communication among the members.
